@@ -1,0 +1,11 @@
+[33mdaac481[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/dev-salma[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33mdaac481[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/dev-salma[m[33m)[m HEAD@{1}: pull origin dev-salma: Fast-forward
+[33m7b795b6[m HEAD@{2}: reset: moving to ORIG_HEAD
+[33m7b795b6[m HEAD@{3}: reset: moving to HEAD
+[33m7b795b6[m HEAD@{4}: checkout: moving from dev-salma to main
+[33m4990e60[m[33m ([m[1;32mdev-salma[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m4990e60[m[33m ([m[1;32mdev-salma[m[33m)[m HEAD@{6}: commit: api created for user side management
+[33m95d83cf[m[33m ([m[1;31morigin/development[m[33m)[m HEAD@{7}: pull origin development: Fast-forward
+[33mdaac481[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/dev-salma[m[33m)[m HEAD@{8}: commit: api created for payment intent, payment processing and payment history
+[33m7b795b6[m HEAD@{9}: checkout: moving from main to dev-salma
+[33m7b795b6[m HEAD@{10}: clone: from https://github.com/Mutah3r/litl-pal-server.git
